@@ -9,7 +9,7 @@ gem 'bootstrap-sass', '~> 3.1.1'
 
 gem 'uglifier', '>= 1.3.0'
 
-gem "typescript-rails", '>= 0.1.3', git: "https://github.com/funnythingz/typescript-rails.git"
+gem "typescript-rails", '~> 0.3.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
